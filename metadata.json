@@ -1,0 +1,5 @@
+{
+  "name": "Rifky Aden AI",
+  "description": "An AI-powered image generation application using Google's Imagen model. Turn your text prompts into stunning visuals.",
+  "requestFramePermissions": []
+}
